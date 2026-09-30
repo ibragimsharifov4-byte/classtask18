@@ -1,0 +1,14 @@
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\bin\Debug\net10.0\18Lesson.exe
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\bin\Debug\net10.0\18Lesson.deps.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\bin\Debug\net10.0\18Lesson.runtimeconfig.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\bin\Debug\net10.0\18Lesson.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\bin\Debug\net10.0\18Lesson.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.AssemblyInfoInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.AssemblyInfo.cs
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.csproj.CoreCompileInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\refint\18Lesson.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\18Lesson.genruntimeconfig.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\18Lesson\obj\Debug\net10.0\ref\18Lesson.dll
